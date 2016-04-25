@@ -12,4 +12,9 @@ public class Calculator {
 		return result;
 	}
 
+	void sub(int x, int y) {
+		result = x-y;
+		
+	}
+
 }
